@@ -27,8 +27,8 @@ body:
       description: |
         Select compatible game for the map.
       options:
-        - RA2
         - YR
+        - RA2
 
   - type: dropdown
     id: map-mode
