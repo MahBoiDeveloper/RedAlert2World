@@ -1,2 +1,2 @@
 # Red Alert 2 World
-Fan made missions for Command &amp; Conquer: Red Alert 2 — Yuri's Revenge
+Fan made missions for Command & Conquer: Red Alert 2 and Yuri's Revenge
