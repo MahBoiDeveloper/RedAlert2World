@@ -6,4 +6,4 @@
 
 
 # Red Alert 2 World
-Fan made missions for Command & Conquer: Red Alert 2 and Yuri's Revenge
+... is a fan made map package for Command & Conquer: Red Alert 2 and Yuri's Revenge.
