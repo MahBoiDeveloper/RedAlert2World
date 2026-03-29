@@ -4,6 +4,5 @@
 	</a>
 </p>
 
-
 # Red Alert 2 World
 ... is a fan made map package for Command & Conquer: Red Alert 2 and Yuri's Revenge.
